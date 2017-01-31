@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="add_site">サイトを登録する</string>
+
+    <string name="link_publish_date">%1$tm/%1$td %1$tH:%1$tM</string>
+
+    <string name="site_link_count">%1$d 記事</string>
+
+    <string name="dialog_url_hint">RSSフィードのURL</string>
+    <string name="dialog_button_add">登録する</string>
+    <string name="dialog_button_cancel">no</string>
+    <string name="dialog_delete_title">サイトの登録解除</string>
+    <string name="dialog_delete_message">選択したサイトを登録解除しますか</string>
+    <string name="dialog_button_positive">yes</string>
+
+    <string name="notification_title">新着の記事</string>
+    <string name="notification_message">%1$d件の新着リンクがあります。</string>
+
+</resources>
